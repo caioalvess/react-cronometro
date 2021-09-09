@@ -49,7 +49,7 @@ export class App extends Component {
         </div>
         <div className="areaBtn">
           <Button handleClick={this.go} nome={this.state.botao} />
-          <Button handleClick={this.reset} nome="Stop" />
+          <Button handleClick={this.reset} nome="Reset" />
         </div>
       </div>
     );
