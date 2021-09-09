@@ -1,3 +1,13 @@
+# Cronômetro
+
+Este é um projeto desenvolvido em React JS que se trata de um cronômetro funcional com algumas opções que o usuário pode optar por manipulá-lo: "GO!(começar a contagem)", "STOP(pausar a contagem)" e "RESET"(zerar contagem).
+
+Projeto desenvolvido com o objetivo de aprender e praticar estados no React JS.
+
+<p align="center">
+  <img src="/src/assets/captura-cronometro.PNG" width="100%">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
